@@ -1,0 +1,24 @@
+{
+  "name": "animated-umbrella",
+  "version": "1.0.0",
+  "description": "Open-Access laboratory telemetry  # SONO Network Protocol (`$SONO`)",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sonobaby/animated-umbrella.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Sonobaby/animated-umbrella/issues"
+  },
+  "homepage": "https://github.com/Sonobaby/animated-umbrella#readme"
+}
