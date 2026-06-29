@@ -20,5 +20,9 @@
   "bugs": {
     "url": "https://github.com/Sonobaby/animated-umbrella/issues"
   },
-  "homepage": "https://github.com/Sonobaby/animated-umbrella#readme"
+  "homepage": "https://github.com/Sonobaby/animated-umbrella#readme",
+  "dependencies": {
+    "blessed": "^0.1.81",
+    "blessed-contrib": "^4.8.13"
+  }
 }
